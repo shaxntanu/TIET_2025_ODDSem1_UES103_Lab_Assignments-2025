@@ -7,7 +7,7 @@ A curated collection of solutions and code snippets for programming lab assignme
 
 This repository includes well-documented solutions to programming assignments and exercises from my college labs. Each project folder is organized question-wise and contains clean, readable code with comments and brief explanations. This serves as both a study reference and a portfolio of my development as an engineering student.
 
-## Features
+## Features 
 
 - Solutions for college lab assignments (mainly C language)
 - Explanatory code comments and markdown notes
